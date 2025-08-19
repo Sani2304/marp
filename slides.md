@@ -5,6 +5,9 @@ paginate: true
 footer: '25ds1000071@ds.study.iitm.ac.in'
 ---
 
+<!-- size: 16:9 -->
+<!-- header: 'Product Docs · Marp' -->
+
 <!-- Custom Theme Specification -->
 <style>
 section {
@@ -41,6 +44,7 @@ footer {
 - **Customizable**: Themes, styles, background images
 
 ---
+<!-- _class: lead -->
 <!-- Slide with Background Image -->
 ![bg](https://marp.app/assets/marp.svg)
 
@@ -76,6 +80,7 @@ $$
 
 ---
 
+<!-- _paginate: false -->
 # Contact
 
 **Email:** 25ds1000071@ds.study.iitm.ac.in
